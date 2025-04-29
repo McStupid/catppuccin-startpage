@@ -13,7 +13,7 @@ const default_configuration = {
   },
   search: {
     engines: {
-      d: ["https://duckduckgo.com/?q=", "DuckDuckGo"],
+      d: ["https://search.brave.com/", "Brave"],
       g: ["https://google.com/search?q=", "Google"],
     },
   },
